@@ -47,6 +47,7 @@
 
 
 * Clone this repository to your local machine.
+  * Use https://restcountries.com/ as your source of API and datae to be integrated on your API
   * Check in to the master the initial files of the Laravel and Libraries you need to use
     * If possible use the latest version of Laravel
   * Create a new FEATURE branch from the MASTER for each feature you will be doing
