@@ -17,7 +17,8 @@
     Upon clicking one of the results it will open a seperate page to show further details about the country.
     
    ## Backend
-    To create a middleware to act as a backend for the frontend application that retrieves the Country's Details in API and return it on JSON format:
+    To create a middleware to act as a backend for the frontend application that retrieves the Country's Details in API 
+    and return it on JSON format:
     
         * API to display the Country's Initial, Name and Capital
         * API to display the Country's Initial, Name, Capital, Region, Flag, Currency and link to  google maps
