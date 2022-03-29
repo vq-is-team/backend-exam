@@ -33,20 +33,21 @@
 <!-- TABLE OF CONTENTS -->
 ## Procedures (Frontend)
 
-* Clone this repository to your local machine.
+* Clone this repository to your local machine and initiate your own repo
   * Check in to the master the initial files of the frontend framework you prefer to use
     * If possible use the latest version of Angular/React
   * Create a new FEATURE branch from the MASTER for each feature you will be doing
     * One branch for changes related to the Search Form Page
     * One branch for changes related to the Country Detail Page
   * Once your done with the changes, merge the two branches to a new RELEASE branch
-  * After successfully merging, create a PULL REQUEST to MASTER branch
+  * After successfully merging, create a PULL REQUEST to MAIN branch  
+  * Merge the Pull Request to MAIN then send us a invite to join the repo so we can check your work
   
   
 ## Procedures (Backend)
 
 
-* Clone this repository to your local machine.
+* Clone this repository to your local machine and initiate your own repo
   * Use https://restcountries.com/ as your source of API and datae to be integrated on your API
   * Check in to the master the initial files of the Laravel and Libraries you need to use
     * If possible use the latest version of Laravel
@@ -54,5 +55,6 @@
     * API to display the Country's Initial, Name and Capital
     * API to display the Country's Initial, Name, Capital, Region, Flag, Currency and link to  google maps
   * Once your done with the changes, merge the two branches to a new RELEASE branch
-  * After successfully merging, create a PULL REQUEST to MASTER branch
+  * After successfully merging, create a PULL REQUEST to MAIN branch 
+  * Merge the Pull Request to MAIN then send us a invite to join the repo so we can check your work
   
