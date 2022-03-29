@@ -10,6 +10,7 @@
 
   <p align="left">
     <h5>Objective:</h5>
+    
    ## Frontend
     To create a simple form that allows end user to do a wildcard search of the information about the country 
     provided by the API and list relevant results. 
