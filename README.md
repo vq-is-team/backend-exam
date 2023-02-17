@@ -3,7 +3,7 @@
 <br />
 <p align="center" style="background: #000">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://otp.vqbn.com/assets/vq-logo.png" width="260" height="60">
+    <img src="https://cdn.statically.io/img/corporate.viewqwest.com/wp-content/uploads/2022/11/cropped-logo_ViewQwest.webp?quality=100&f=auto" width="260" height="60">
   </a>
 
   <h3 align="center">Online Exam for ViewQwest Software Engineer</h3>
@@ -31,29 +31,32 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Procedures (Frontend)
+## Procedures (Frontend Developer Applicants)
 
 * Clone this repository to your local machine and initiate your own repo
   * Check in to the master the initial files of the frontend framework you prefer to use
-    * If possible use the latest version of Angular/React
+    * If possible use the latest version of React / VueJs
   * Create a new FEATURE branch from the MASTER for each feature you will be doing
     * One branch for changes related to the Search Form Page
     * One branch for changes related to the Country Detail Page
+  * Use https://restcountries.com/ as your source of API and data to be integrated to your application
+  
   * Once your done with the changes, merge the two branches to a new RELEASE branch
   * After successfully merging, create a PULL REQUEST to MAIN branch  
   * Merge the Pull Request to MAIN then send us a invite to join the repo so we can check your work
   
   
-## Procedures (Backend)
+## Procedures (Backend Developer Applicants)
 
 
 * Clone this repository to your local machine and initiate your own repo
-  * Use https://restcountries.com/ as your source of API and datae to be integrated on your API
+  * Use https://restcountries.com/ as your source of API and data to be integrated on your API
   * Check in to the master the initial files of the Laravel and Libraries you need to use
     * If possible use the latest version of Laravel
   * Create a new FEATURE branch from the MASTER for each feature you will be doing
     * API to display the Country's Initial, Name and Capital
     * API to display the Country's Initial, Name, Capital, Region, Flag, Currency and link to  google maps
+    
   * Once your done with the changes, merge the two branches to a new RELEASE branch
   * After successfully merging, create a PULL REQUEST to MAIN branch 
   * Merge the Pull Request to MAIN then send us a invite to join the repo so we can check your work
